@@ -1,5 +1,5 @@
 ## Bienvenido Ser de este planeta 
-aca vas a ver una api que fue diseñada con lo que se pudo
+aca vas a ver una api que fue diseñada con lo que se pudo hecha con node.js y express
 ## instalacion
 - 1 abra la terminal y clone el repo (seria git clone "el repo")
 - 2 haga npm install si es necesario
